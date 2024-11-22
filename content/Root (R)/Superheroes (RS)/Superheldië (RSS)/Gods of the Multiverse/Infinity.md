@@ -4,30 +4,18 @@ draft: "false"
 
 ### Description
 Infinity is the god of the Multiverse according to [[Superheldians]]. He has the ability to travel across the multiverse and many more. He is a very gullible god.
->**Height**
->
->165"
->
->**Weight**
->
->91 tons
->
->**Gender**
->
->Male
->
->**Eyes**
->
->Green
->
->**Hair**
->
->Depending on his form.
->
->**Other Aliases**
->
->The Creator, God of the Multiverse
->
+>**Height**/n
+>165"/n
+>**Weight**/n
+>91 tons\n
+>**Gender**\n
+>Male\n
+>**Eyes**\n
+>Green\n
+>**Hair**\n
+>Depending on his form.\n
+>**Other Aliases**\n
+>The Creator, God of the Multiverse\n
 
 
 ### Backstory
