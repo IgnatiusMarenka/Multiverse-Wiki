@@ -1,6 +1,6 @@
 ---
 draft: "true"
-title: Disc name
+title: Cecret2001
 ---
 
 ### Description
@@ -36,4 +36,4 @@ title: Disc name
 ### Backstory
 
 ### Characters
-[[Vessel 4]]
+

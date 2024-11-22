@@ -1,6 +1,6 @@
 ---
 draft: "true"
-title: Disc name
+title: Ale
 ---
 
 ### Description
@@ -36,4 +36,3 @@ title: Disc name
 ### Backstory
 
 ### Characters
-[[Vessel 3]]

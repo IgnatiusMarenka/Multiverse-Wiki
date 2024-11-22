@@ -36,4 +36,3 @@ title: Ben
 ### Backstory
 
 ### Characters
-[[Vessel 2]]
