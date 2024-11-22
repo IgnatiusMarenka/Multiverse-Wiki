@@ -7,3 +7,5 @@ This wiki updates along the way, as the multiverse develops. Obviously not all t
 For the rest enjoy.
 
 Here are some quick links to info you might need along your campaign.
+
+[[Infinity]]
