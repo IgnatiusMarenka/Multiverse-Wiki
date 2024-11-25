@@ -1,7 +1,6 @@
 ---
 draft: "true"
-title: Ale
-aliases: []
+title: DarkViking
 ---
 
 ### Description
