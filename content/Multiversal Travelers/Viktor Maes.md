@@ -2,7 +2,6 @@
 draft: "true"
 title: DarkViking
 ---
-
 ### Description
 
 > **Height**

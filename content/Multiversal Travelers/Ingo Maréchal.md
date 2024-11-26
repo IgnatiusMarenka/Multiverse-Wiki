@@ -2,7 +2,6 @@
 draft: "true"
 title: Ignatius
 ---
-
 ### Description
 Ingo is a creative soul who loves his fantasy and sharing it with others. He is a very talkative social person.
 
