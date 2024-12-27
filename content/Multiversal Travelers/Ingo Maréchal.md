@@ -27,7 +27,7 @@ Ingo is a creative soul who loves his fantasy and sharing it with others. He is 
 > 
 > **Other Aliases**
 > 
-> Ignatius
+> Ignatius, Silver Centurion, Darc Shadow, Darc
 > 
 > **Birthday**
 > 
