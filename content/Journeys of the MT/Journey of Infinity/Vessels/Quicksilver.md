@@ -1,5 +1,6 @@
 ---
 Player: Naomi
+draft: "true"
 ---
 
 ### Description

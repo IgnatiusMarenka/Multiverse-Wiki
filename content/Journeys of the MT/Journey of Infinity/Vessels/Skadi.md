@@ -1,5 +1,6 @@
 ---
 Player: Xander
+draft: "true"
 ---
  
 ### Description

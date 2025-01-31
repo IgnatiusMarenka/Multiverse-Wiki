@@ -1,5 +1,6 @@
 ---
 Player: Sasha
+draft: "true"
 ---
 
 ### Description

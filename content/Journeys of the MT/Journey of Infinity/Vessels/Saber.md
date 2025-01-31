@@ -1,5 +1,6 @@
 ---
 Player: Wim
+draft: "true"
 ---
 
 ### Description
