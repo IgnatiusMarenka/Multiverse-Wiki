@@ -1,5 +1,5 @@
 ---
-draft: "true"
+draft: "false"
 title: The Training
 ---
 # The beginning
