@@ -10,8 +10,8 @@ This one shot is meant for new members and fighters of the S.A.C. it will be pla
 
 > You all are standing in a big room, you just got pulled through a portal, a thing you thought didn't exist.
 > So you are standing in a big hall with the sunlight shining through the tall glass windows and can clearly see each other. The hall is easily 10 meter in height and 10 meter wide. Before you, on a small stage is a good looking guy. He is probably around 1m75 and is in his thirties.
-> [[Karel|The Person]]: "Dear people, you probably are all wondering how you got up here? But answers will be here soon."
-> [[Karel|The Person]] leaves and you are all left behind with only your thoughts.
+> [[Carl Smith|The Person]]: "Dear people, you probably are all wondering how you got up here? But answers will be here soon."
+> [[Carl Smith|The Person]] leaves and you are all left behind with only your thoughts.
 
 This is when you teach your players a bit of roleplaying, the core element of TTRPG, it is in the name after all. Let them discuss, and if needed you let [[Ingo]] be a character who joins in on the fun, take this time to explain everything that has to do with talking and after a while introduce rolling.
 
@@ -85,7 +85,9 @@ If they press it:
 > The chair with padding sinks into the ground and a panel hides the chair underground. All off a sudden the ancient armor at the end of the room starts moving and looks around at all of you.
 
 Let the players roll Initiative. And roll yourself as well. This is where combat against the armors starts.
+
 ![[Animated Armor.png]]
+
 Here you explain the combat mechanism and help players, because a lot is learned by actually playing.
 
 > The armor collapses and the fight seems to be over, the chair that sunk into the ground seems to stay there and there is a sudden silence, and the only thing that changes is the lamp on the table that turns on.

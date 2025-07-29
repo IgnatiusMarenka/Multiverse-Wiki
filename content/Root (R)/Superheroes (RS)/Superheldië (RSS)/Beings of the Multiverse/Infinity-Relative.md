@@ -9,5 +9,5 @@ draft: "true"
 [[The Leader]]
 [[The Sidekick]]
 [[The Origin]]
-[[The Change]]
+[[Root (R)/Superheroes (RS)/Superheldië (RSS)/RSS-0E59/Inhabitants/The Change]]
 [[The Utilizer]]
