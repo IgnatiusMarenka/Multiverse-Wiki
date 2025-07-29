@@ -7,5 +7,11 @@ This wiki updates along the way, as the multiverse develops. Obviously not all t
 For the rest enjoy.
 
 Here are some quick links to info you might need along your campaign.
-
+#### Journey of Infinity
+- [[Session 1]]
+- [[Session 2]]
+- [[Session 3]]
+- [[Session 4]]
+- [[Session 5]]
 - [[Session 6]]
+- [[Session 6 1]]
