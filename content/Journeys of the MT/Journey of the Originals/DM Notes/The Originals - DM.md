@@ -140,8 +140,9 @@ POIs:
 
 ### Carl Smith
 > [!HINT]
-> For more info on Carl Smith check [[Carl Smith|here]].
+> For more info on Carl Smith check [[Root (R)/Superheroes (RS)/Superheldië (RSS)/RSS-0001/Inhabitants/Carl Smith|here]].
 
+When they arrive at the main hall 
 ### The Mission Board
 > [!HINT]
 > For more info on The Mission Board check [[Secret Agent Company#The Mission Board|here]].

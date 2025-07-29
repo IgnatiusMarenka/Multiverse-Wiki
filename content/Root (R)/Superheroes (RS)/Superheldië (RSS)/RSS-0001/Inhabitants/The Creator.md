@@ -2,5 +2,5 @@
 draft: "false"
 ---
 ### Description
-
-### Backstory
+This Ignatius Marenka Maréchal variant from universe RSS-0001, was the mortal resurrection of the first [[Infinity]]. He was the one who invented and shaped [[Infinity-Relative|The Infinity-Relatives]]. His godly form Infinity is as old as time itself and created the Superheldian Multiverse mainly by himself. After a while he discovered he couldn't handle all the problems of the multiverse himself, that was when he created the Infinity-Relatives. 
+After the first fight with [[The Origin]]. He decided to disband the Infinity-Relatives and started protecting the multiverse all by himself. After resurrecting in this knew body, he lost all his memories as a god and hereby forgot about the existence of [[The Origin]]. The gods tried to kill Ignatius multiple times after the resurrection, because they needed their leader with them. Unfortunately there was still a part of Ignatius that was godly which caused many of their killing attempts to fail. In the end when Ingo was in his fifth year of high school [[Ka Ripa]] found a way to kill Ignatius by abducting some of his friends and trading his life for theirs. 

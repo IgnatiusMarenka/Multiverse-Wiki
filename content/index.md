@@ -8,6 +8,4 @@ For the rest enjoy.
 
 Here are some quick links to info you might need along your campaign.
 
-- [[The Creator]]
-- [[Carl Smith]]
-- [[Secret Agent Company]]
+- [[Session 6]]
