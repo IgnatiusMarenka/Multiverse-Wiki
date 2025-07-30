@@ -1,0 +1,9 @@
+---
+draft: "true"
+---
+### Description
+Superheldians are the current inhabitants of the country of Superheldia. They are noble, kind people who will go out off their way to protect the weak.
+
+### History
+The Superheldians got into existence when the [[Vampire Faction]] on Superheldia started experimenting with blood from various creatures. They wanted to make a vampire who was stronger then anyone or anything to win the war against the Dragon Faction. When their army of supers was ready they called them Superheldians. The Superheldians fought with the dragons but where then met by [[Infinity]] who showed them what the dragons really wanted. He blessed the dragons with a chance to verbally defend themselves which created another race of Superheldians being dragon mutants. They could interchange between a human form and a dragon form at will. There the first Superheldians discovered that the dragons just wanted the war to end, and that this was actually their homeland and that the vampires where just trying to claim the land as their own. The Superheldians upon hearing this turned against their creators and together thrived the vampires back to the eternal darkness, their home ground. Infinity then rewarded the Superheldians with insight into the god realm which gave them access to a range off abilities apart from the super strength they gained from their ancestors/creators. The dragons gave them a piece of country to show their gratitude, calling it Superheldia. Over the years the population of Superheldia has grown, and they have sworn to protect the planet they lived on and all of its inhabitants.
+For this they founded The [[Secret Agent Company]], to protect them who can not protect themselves. The S.A.C. allowed the Superheldians to explore distant planets which they also protect at all cost.

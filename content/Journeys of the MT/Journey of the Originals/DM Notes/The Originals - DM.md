@@ -105,9 +105,30 @@ From the main S.I.M.P.L.E. hall will be five branches all situated on the lower 
 
 Now they can choose which way they go.
 
+## Pod Room
+NPCs: 
+/
+POIs:
+- [[The Originals - DM#The Mission Pods|The Mission Pods]]
+- [[The Originals - DM#The Control Panel|The Control Panel]]
+
+### The Mission Pods
+
+> [!HINT]
+> For more info on The Mission Pods check [[Default link|here]].
+
+
+### The Control Panel
+
+> [!HINT]
+> For more info on The Control Panel check [[Default link|here]].
+
+
+
 ## Research Department
 NPCs:
 - [[The Originals - DM#Lisa Styler|Lisa Styler]]
+POIs:
 
 ### Lisa Styler
 
@@ -117,13 +138,23 @@ NPCs:
 
 ## Generator Room
 NPCs:
+- [[The Originals - DM#Cole Chant|Cole Chant]]
+POIs:
+
+### Cole Chant
+> [!HINT]
+> For more info on Cole Chant check [[Cole Chant|here]].
+
+
 
 ## Meeting Rooms
 NPCs:
+POIs:
 
 ## Training Rooms
 NPCs:
 - [[The Originals - DM#Tony Delacour|Tony Delacour]]
+POIs:
 
 ### Tony Delacour
 
@@ -137,12 +168,25 @@ NPCs:
 
 POIs:
 - [[The Originals - DM#The Mission Board|The Mission Board]]
+- [[The Originals - DM#The Portal|The Portal]]
+
+Once they arrive at the Main Hall, Carl greets them and calls them over.
 
 ### Carl Smith
 > [!HINT]
-> For more info on Carl Smith check [[Root (R)/Superheroes (RS)/Superheldië (RSS)/RSS-0001/Inhabitants/Carl Smith|here]].
+> For more info on Carl Smith check [[Carl Smith|here]].
 
-When they arrive at the main hall 
+Once they walk up to Carl he starts guiding them through the SAC HQ.
+
+> [!INFO]
+> Carl Smith: There you are, how did you training go?
+> Carl Smith: Alright, Ignatius told me to guide you through the main spots of the 
+
 ### The Mission Board
 > [!HINT]
 > For more info on The Mission Board check [[Secret Agent Company#The Mission Board|here]].
+
+### The Portal
+> [!HINT]
+> For more info on The Portal check [[Secret Agent Company#The Portal|here]].
+
