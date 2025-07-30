@@ -1,5 +1,5 @@
 ---
-draft: "false"
+draft: "true"
 ---
 ### Description
 This Ignatius Marenka Maréchal variant from universe RSS-0001, was the mortal resurrection of the first [[Infinity]]. He was the one who invented and shaped [[Infinity-Relative|The Infinity-Relatives]]. His godly form Infinity is as old as time itself and created the Superheldian Multiverse mainly by himself. After a while he discovered he couldn't handle all the problems of the multiverse himself, that was when he created the Infinity-Relatives. 
