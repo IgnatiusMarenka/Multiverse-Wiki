@@ -9,7 +9,7 @@ The Secret Agent Company is an organization that focuses on saving big problems.
 The Buildings and their locations.
 
 ## The Headquarters
-The HQ is the main building of the SAC, standing 540 meter tall, this is the tallest building of all the SAC buildings. It is here that the leader of the SAC sits.
+The HQ is the main building of the SAC, standing 540 meter tall, this is the tallest building of all the SAC buildings. It is in this building in the center of [[Newby]] that the leader of the SAC sits.
 It is also where [[The Creator]] learned about the multiverse.
 
 ### Main Hall
